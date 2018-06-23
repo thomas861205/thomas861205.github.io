@@ -1,10 +1,10 @@
 # Site settings
-title: Thomas Chou's Site
+title: Thomas Chou
 email: thomaschou861205@gmail.com
 url: https://thomas861205.github.io
 description: "An unproductive programmer."
 keywords: "Python, C/C++"
-skills: "Eat - Sleep - Deep House"
+skills: "EE X CS X MATH"
 meta_author: Thomas Chou
 
 # Google webmaster tools
@@ -43,8 +43,6 @@ social:
     url: https://twitter.com/thomas861205
   - title: facebook
     url: https://www.facebook.com/thomas.chou.3950
-  - title: gitlab
-    url: http://gitlab.larc-nthu.net/105061110
   - title: github
     url: https://github.com/thomas861205
 
