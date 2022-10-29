@@ -1,0 +1,3 @@
+[submodule "theme/nosytle"]
+	path = theme/nosytle
+	url = https://github.com/Masellum/hugo-theme-nostyleplease.git
