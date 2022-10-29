@@ -1,0 +1,4 @@
+baseURL = 'https://thomas861205.github.io/'
+languageCode = 'en-us'
+title = 'Life style archive'
+theme = "nostyle"
