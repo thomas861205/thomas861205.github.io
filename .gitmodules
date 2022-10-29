@@ -1,3 +1,6 @@
 [submodule "theme/nosytle"]
 	path = theme/nosytle
 	url = https://github.com/Masellum/hugo-theme-nostyleplease.git
+[submodule "themes/cactus"]
+	path = themes/cactus
+	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
